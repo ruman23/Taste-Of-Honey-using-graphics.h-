@@ -1,0 +1,539 @@
+# depslib dependency file v1.0
+1434837708 source:f:\games\taste of honey\taste of honey\starting.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1434834793 source:f:\games\taste of honey\taste of honey\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1434834793 source:f:\games\taste of honey\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1434837277 source:f:\games\taste of honey\starting.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1447187743 source:i:\games\taste of honey\starting.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1435318543 source:i:\games\taste of honey\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1450731147 source:i:\games\taste of honey\main_manu.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1450731442 source:i:\games\taste of honey\exit game.cpp
+	<graphics.h>
+	<iostream>
+
+1439749972 source:i:\games\taste of honey\credits.cpp
+	<graphics.h>
+	<iostream>
+
+1450731147 source:i:\games\taste of honey\level selection.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1435318543 source:i:\game project\main\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1439749972 source:i:\game project\main\credits.cpp
+	<graphics.h>
+	<iostream>
+
+1450731442 source:i:\game project\main\exit game.cpp
+	<graphics.h>
+	<iostream>
+
+1450731147 source:i:\game project\main\level selection.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1450731147 source:i:\game project\main\main_manu.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1450738161 source:i:\game project\main\starting.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1450910174 source:i:\noman\main\exit game.cpp
+	<graphics.h>
+	<iostream>
+
+1450731147 source:i:\noman\main\level selection.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1451247668 source:i:\noman\main\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1450910440 source:i:\noman\main\starting.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1451255949 source:i:\noman\main\credits.cpp
+	<graphics.h>
+	<iostream>
+
+1451252535 source:i:\noman\main\main_manu.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1451261390 source:i:\noman\main\level one.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1451254725 source:i:\noman\main\high score.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1451261757 source:i:\noman\main\level two.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1451254877 source:i:\noman\main\high score_2.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1451261390 source:i:\noman\main\level three.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1451255379 source:i:\noman\main\high score_3.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1451255949 source:i:\noman\submit this game\credits.cpp
+	<graphics.h>
+	<iostream>
+
+1450910174 source:i:\noman\submit this game\exit game.cpp
+	<graphics.h>
+	<iostream>
+
+1451254725 source:i:\noman\submit this game\high score.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1451254877 source:i:\noman\submit this game\high score_2.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1451255379 source:i:\noman\submit this game\high score_3.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1451261390 source:i:\noman\submit this game\level one.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1451261390 source:i:\noman\submit this game\level three.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1451261757 source:i:\noman\submit this game\level two.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1451252535 source:i:\noman\submit this game\main_manu.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1450910440 source:i:\noman\submit this game\starting.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1451255949 source:d:\noman\submit this game\credits.cpp
+	<graphics.h>
+	<iostream>
+
+1450910174 source:d:\noman\submit this game\exit game.cpp
+	<graphics.h>
+	<iostream>
+
+1451254725 source:d:\noman\submit this game\high score.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1451254877 source:d:\noman\submit this game\high score_2.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1451255379 source:d:\noman\submit this game\high score_3.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1451261390 source:d:\noman\submit this game\level one.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1451261390 source:d:\noman\submit this game\level three.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1451261757 source:d:\noman\submit this game\level two.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1452021437 source:d:\noman\submit this game\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1451252535 source:d:\noman\submit this game\main_manu.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1450910440 source:d:\noman\submit this game\starting.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1456960799 source:j:\submit this game\credits.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1450910174 source:j:\submit this game\exit game.cpp
+	<graphics.h>
+	<iostream>
+
+1456696529 source:j:\submit this game\high score.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1456623877 source:j:\submit this game\high score_2.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1456623910 source:j:\submit this game\high score_3.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1456961259 source:j:\submit this game\level one.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1456961110 source:j:\submit this game\level three.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1456961113 source:j:\submit this game\level two.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1456951893 source:j:\submit this game\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1456684809 source:j:\submit this game\main_manu.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1456966178 source:j:\submit this game\starting.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1456960579 source:j:\submit this game\option.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1456960799 source:j:\viba\credits.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1450910174 source:j:\viba\exit game.cpp
+	<graphics.h>
+	<iostream>
+
+1456696529 source:j:\viba\high score.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1456623877 source:j:\viba\high score_2.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1456623910 source:j:\viba\high score_3.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1456961110 source:j:\viba\level three.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1456951893 source:j:\viba\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1456684809 source:j:\viba\main_manu.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1456960579 source:j:\viba\option.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1456978860 source:j:\viba\starting.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1456978633 source:j:\viba\level one.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1456978633 source:j:\viba\level two.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1456960799 source:j:\viba - copy\credits.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1450910174 source:j:\viba - copy\exit game.cpp
+	<graphics.h>
+	<iostream>
+
+1456696529 source:j:\viba - copy\high score.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1456623877 source:j:\viba - copy\high score_2.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1456623910 source:j:\viba - copy\high score_3.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<graphics.h>
+
+1456979507 source:j:\viba - copy\level one.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1456979507 source:j:\viba - copy\level three.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1456979508 source:j:\viba - copy\level two.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+
+1456951893 source:j:\viba - copy\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
+1456684809 source:j:\viba - copy\main_manu.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1456960579 source:j:\viba - copy\option.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1456979508 source:j:\viba - copy\starting.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
